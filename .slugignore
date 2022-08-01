@@ -1,3 +1,13 @@
 .pkl
 .html
-.cpython-39.pyc
+.pyc
+
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+/coverage
+
+/build
